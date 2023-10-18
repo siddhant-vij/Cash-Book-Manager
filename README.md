@@ -11,7 +11,11 @@ Aims to digitize "Record Keeping" & help individuals manage their incomes & expe
 
 ## Features
 
-- To be added
+- Cash book (CSV) consists of a list of entries - Income/Expense
+- Add/Edit/Delete an entry to the book and update the cashIn, cashOut, and netBalance.
+- Read entries from the book - based on category, entryType, paymentMode, date range filters
+- Book Operations - Add/Rename/Delete a book
+- Console & CSV Helper Utilities to read/write to/from console/CSV
 
 ## Contributing
 
@@ -34,8 +38,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Future Improvements
 
-- To be added
+- Frontend Features - CLI & GUI (Must) + Web (TBE)
+- All additional features that make this a production-grade app
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/siddhant-vij/cash-book-manager/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/siddhant-vij/Cash-Book-Manager/blob/main/LICENSE) for more information.
